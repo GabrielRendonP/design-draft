@@ -1,0 +1,13 @@
+nav {
+  display: flex;
+  justify-content: space-between;
+  background-color: var(--dark-bg-color);
+  
+  div {
+    padding: 2rem;
+  
+    p {
+      color: white;
+    }
+  }
+}
